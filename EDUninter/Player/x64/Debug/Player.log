@@ -1,0 +1,10 @@
+﻿  Player.cpp
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(39,13): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'unsigned __int64'
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(39,13): message : esse argumento é usado como um tamanho do buffer
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(41,54): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(49,13): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'unsigned __int64'
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(49,13): message : esse argumento é usado como um tamanho do buffer
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(51,57): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(99,9): warning C4101: 'indice': variável local não referenciada
+C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\Player\Player.cpp(96,10): warning C4101: 'nome': variável local não referenciada
+  Player.vcxproj -> C:\Users\lucas\Documents\GitHub\ED Uninter\EDUninter\x64\Debug\Player.exe
